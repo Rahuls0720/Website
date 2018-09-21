@@ -1,0 +1,42 @@
+body {
+	background-color: black;
+	color: green;
+}
+
+#name {
+	text-align: center;
+}
+
+.main_body {
+	position: relative;
+	top: 200px;
+}
+
+#construction {
+	text-align: center;
+}
+
+#tennis_img {
+	position: absolute;
+	height: 200px;
+	width: 125px;
+	top: 5px;
+	right: 5px;
+}
+
+#github {
+	position: relative;
+	height: 20px;
+	width: 20px;
+	left: 5px;
+}
+
+#resume {
+	position: relative;
+	color: green;
+	left: 5px;
+}
+
+.Me {
+	background-color: rgb(32,32,32);
+}
